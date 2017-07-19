@@ -1,0 +1,49 @@
+    /* colors */
+.light_gray_bg {
+    background: lightgray; 
+}
+.light_blue_bg {
+    background: lightblue;
+}
+.light_green_bg {
+    background: lightgreen;
+}
+.blue_bg {
+    background: blue; 
+}
+.yellow_bg {
+    background: yellow;
+}
+    /* end colors */
+    /* begin header */
+.header {
+    width: 100%;
+    height: 15vh;
+    position: relative;
+}
+.square {
+    position: absolute;
+    width: 80px;
+    height: 80px;
+    left: 100px;
+    top: 10%;
+}
+    /* end header */
+    /* begin blank section */
+.bigger_section {
+    width: 100%;
+    height: 300px;
+}
+.paragraph {
+    text-align:center;
+    font-family: monospace;
+    font-size: 30px;
+
+}
+    /* end blank section */
+    /* begin color columns */
+.column {
+    width: 100%;
+    height: 100px;
+} 
+    /* end color columns */

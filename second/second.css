@@ -1,0 +1,36 @@
+.black_bg {
+    background:black;
+}
+.blue_bg {
+    background: blue;
+}
+.light_blue_bg {
+    background: lightblue;
+}
+.light_green_bg {
+    background: black;
+}
+.section1 {
+    width: 66.7%;
+}
+.tall_column {
+    height: 99.5vh;
+    width: 50%;
+    float: left;
+}
+.section2 {
+    width: 33.3%;
+    float:right;
+}
+.main_section {
+    width: 100%;
+    overflow: hidden;
+}
+.short_column {
+    width: 100%;
+    height: 45vh;
+}
+.image {
+    height: auto;
+    text-align: center;
+}
